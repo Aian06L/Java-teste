@@ -1,0 +1,29 @@
+# Maven build directory
+/target/
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Diretório de fontes geradas pelo Maven
+/generated-sources/
+
+# Diretório de testes do Maven
+/test/
+
+# Outros arquivos e diretórios comuns do Maven
+/.mvn/
+/.mvn/
+mvnw
+mvnw.cmd
+
+# Ignorar arquivo ou pasta A3 na raiz
+./A3/
+
+# Ignorar arquivo ou pasta A3 dentro de src
+/src/A3
+
+# ...existing code...
